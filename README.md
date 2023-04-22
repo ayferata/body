@@ -8,7 +8,6 @@ public class vucutkitle {
 
         Scanner kitle = new Scanner(System.in);
         System.out.print("Boyunuzu Metre Cinsinden Giriniz : ");
-
         boy = kitle.nextDouble();
 
         System.out.print("Kilonuzu Giriniz : ");
