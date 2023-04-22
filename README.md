@@ -7,7 +7,6 @@ public class vucutkitle {
       double boy , kilo , index;
 
         Scanner kitle = new Scanner(System.in);
-
         System.out.print("Boyunuzu Metre Cinsinden Giriniz : ");
 
         boy = kitle.nextDouble();
