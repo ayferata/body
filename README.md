@@ -12,7 +12,6 @@ public class vucutkitle {
 
         System.out.print("Kilonuzu Giriniz : ");
         kilo = kitle.nextDouble();
-
         index = kilo / (boy * boy);
 
         System.out.print("Kitle indeksiniz : "+ index);
