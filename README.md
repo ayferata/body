@@ -4,8 +4,7 @@ import java.util.Scanner;
 public class vucutkitle {
 
     public static void main(String[] args) {
-
-        double boy , kilo , index;
+      double boy , kilo , index;
 
         Scanner kitle = new Scanner(System.in);
 
